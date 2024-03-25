@@ -9,26 +9,26 @@
 # Digital marketer 
 
 ### SKILLS
-- **Search Engine Optimization (SEO):** Keyword Research, On-page Optimization, Off-page Optimization
-- **Social Media Marketing (SMM):** Content Creation, Engagement, Community Management
-- **Content Marketing:** Blogging, Content Strategy, Content Calendar
-- **Email Marketing:** Campaign Management, Automation, Email Copywriting
-- **Pay-Per-Click (PPC) Advertising:** Google Ads, Bing Ads, Campaign Optimization
-- **Analytics:** Google Analytics, Social Media Analytics, Data Interpretation
-- **Digital Advertising:** Display Advertising, Remarketing, Ad Copywriting
-- **Copywriting:** Persuasive Writing, SEO Copywriting, Brand Voice
-- **Conversion Rate Optimization (CRO):** A/B Testing, Landing Page Optimization, User Experience (UX) Analysis
-- **Marketing Automation:** Workflow Creation, Lead Nurturing, CRM Integration
-- **CRM (Customer Relationship Management) Tools:** Salesforce, HubSpot, Zoho CRM
-- **Brand Management:** Brand Identity Development, Reputation Management, Brand Monitoring
-- **Influencer Marketing:** Influencer Identification, Campaign Management, Relationship Building
-- **Mobile Marketing:** Mobile App Advertising, SMS Marketing, Mobile Optimization
-- **Video Marketing:** Video Production, YouTube Advertising, Video SEO
-- **Affiliate Marketing:** Partner Recruitment, Commission Structure Optimization, Affiliate Network Management
-- **Marketing Strategy:** Campaign Planning, Audience Segmentation, Goal Setting
-- **Market Research:** Competitor Analysis, Trend Identification, Consumer Behavior Analysis
-- **Project Management:** Task Delegation, Timeline Management, Stakeholder Communication
-- 
+- **Search Engine Optimization (SEO):** Keyword Research, Meta Tags, Basic On-page Optimization
+- **Social Media Marketing (SMM):** Content Scheduling, Basic Analytics Understanding, Engagement Initiatives
+- **Content Marketing:** Blog Post Writing, Content Curation, Basic Content Strategy Understanding
+- **Email Marketing:** Email Campaign Setup, Template Customization, Basic Segmentation
+- **Pay-Per-Click (PPC) Advertising:** Ad Copywriting, Campaign Setup (Google Ads or Facebook Ads), Budget Management
+- **Analytics:** Google Analytics Basics, Social Media Insights Interpretation
+- **Digital Advertising:** Ad Creative Design, Ad Placement Understanding
+- **Copywriting:** Basic Copy Editing, Crafting Attention-grabbing Headlines
+- **Conversion Rate Optimization (CRO):** Understanding Call-to-Actions (CTAs), Basic Landing Page Optimization
+- **Marketing Automation:** Email Drip Campaign Setup, Basic Workflow Automation
+- **CRM (Customer Relationship Management) Tools:** Familiarity with CRM Platforms, Data Entry and Management
+- **Brand Management:** Understanding Brand Guidelines, Basic Reputation Monitoring
+- **Influencer Marketing:** Identifying Micro-influencers, Outreach Templates Creation
+- **Mobile Marketing:** Basic Understanding of Mobile Ad Formats, Mobile Responsive Design Awareness
+- **Video Marketing:** Basic Video Editing, YouTube Channel Setup
+- **Affiliate Marketing:** Affiliate Program Enrollment, Basic Affiliate Network Understanding
+- **Marketing Strategy:** SWOT Analysis Understanding, Basic Goal Setting
+- **Market Research:** Basic Competitor Analysis, Industry Trends Research
+- **Project Management:** Task Organization, Basic Timeline Planning
+
 
 ### PROFESSIONAL EXPERIENCE
 Silver Touch Tech. Ltd. (New Delhi) <br/> 
