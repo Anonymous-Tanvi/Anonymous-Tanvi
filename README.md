@@ -6,13 +6,29 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-# Data Scientist
+# Digital marketer 
 
 ### SKILLS
-● Programming Languages: SQL (proficient), Python (intermediate), R (intermediate) <br/>
-● Data Visualization: Power BI (proficient), Excel (proficient), Tableau (intermediate) <br/>
-● Frontend technologies: HTML/CSS (intermediate), JavaScript (intermediate) <br/>
-● Soft Skills: Communication, Collaboration, Creativity 
+- **Search Engine Optimization (SEO):** Keyword Research, On-page Optimization, Off-page Optimization
+- **Social Media Marketing (SMM):** Content Creation, Engagement, Community Management
+- **Content Marketing:** Blogging, Content Strategy, Content Calendar
+- **Email Marketing:** Campaign Management, Automation, Email Copywriting
+- **Pay-Per-Click (PPC) Advertising:** Google Ads, Bing Ads, Campaign Optimization
+- **Analytics:** Google Analytics, Social Media Analytics, Data Interpretation
+- **Digital Advertising:** Display Advertising, Remarketing, Ad Copywriting
+- **Copywriting:** Persuasive Writing, SEO Copywriting, Brand Voice
+- **Conversion Rate Optimization (CRO):** A/B Testing, Landing Page Optimization, User Experience (UX) Analysis
+- **Marketing Automation:** Workflow Creation, Lead Nurturing, CRM Integration
+- **CRM (Customer Relationship Management) Tools:** Salesforce, HubSpot, Zoho CRM
+- **Brand Management:** Brand Identity Development, Reputation Management, Brand Monitoring
+- **Influencer Marketing:** Influencer Identification, Campaign Management, Relationship Building
+- **Mobile Marketing:** Mobile App Advertising, SMS Marketing, Mobile Optimization
+- **Video Marketing:** Video Production, YouTube Advertising, Video SEO
+- **Affiliate Marketing:** Partner Recruitment, Commission Structure Optimization, Affiliate Network Management
+- **Marketing Strategy:** Campaign Planning, Audience Segmentation, Goal Setting
+- **Market Research:** Competitor Analysis, Trend Identification, Consumer Behavior Analysis
+- **Project Management:** Task Delegation, Timeline Management, Stakeholder Communication
+- 
 
 ### PROFESSIONAL EXPERIENCE
 Silver Touch Tech. Ltd. (New Delhi) <br/> 
