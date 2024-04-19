@@ -6,85 +6,70 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-# Digital marketer 
+# Digital Marketing Portfolio - Tanvi Singh
 
-### SKILLS
-- **Search Engine Optimization (SEO):** Keyword Research, Meta Tags, Basic On-page Optimization
-- **Social Media Marketing (SMM):** Content Scheduling, Basic Analytics Understanding, Engagement Initiatives
-- **Content Marketing:** Blog Post Writing, Content Curation, Basic Content Strategy Understanding
-- **Email Marketing:** Email Campaign Setup, Template Customization, Basic Segmentation
-- **Pay-Per-Click (PPC) Advertising:** Ad Copywriting, Campaign Setup (Google Ads or Facebook Ads), Budget Management
-- **Analytics:** Google Analytics Basics, Social Media Insights Interpretation
-- **Digital Advertising:** Ad Creative Design, Ad Placement Understanding
-- **Copywriting:** Basic Copy Editing, Crafting Attention-grabbing Headlines
-- **Conversion Rate Optimization (CRO):** Understanding Call-to-Actions (CTAs), Basic Landing Page Optimization
-- **Marketing Automation:** Email Drip Campaign Setup, Basic Workflow Automation
-- **CRM (Customer Relationship Management) Tools:** Familiarity with CRM Platforms, Data Entry and Management
-- **Brand Management:** Understanding Brand Guidelines, Basic Reputation Monitoring
-- **Influencer Marketing:** Identifying Micro-influencers, Outreach Templates Creation
-- **Mobile Marketing:** Basic Understanding of Mobile Ad Formats, Mobile Responsive Design Awareness
-- **Video Marketing:** Basic Video Editing, YouTube Channel Setup
-- **Affiliate Marketing:** Affiliate Program Enrollment, Basic Affiliate Network Understanding
-- **Marketing Strategy:** SWOT Analysis Understanding, Basic Goal Setting
-- **Market Research:** Basic Competitor Analysis, Industry Trends Research
-- **Project Management:** Task Organization, Basic Timeline Planning
+This Portfolio is a compilation of all the Innovative digital marketing professional skilled in leveraging emerging trends and technologies to drive business impact. Excited to bring my expertise in social media management, content creation, and performance tracking to a team dedicated to pushing the boundaries of digital excellence, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
+**Email**: [tanvisingh.0920@gmail.com](tanvisingh.0920@gmail.com)
+<br/>
+**LinkedIn**: [Tanvi Singh](https://www.linkedin.com/in/tanvisingh0901/)
 
-### PROFESSIONAL EXPERIENCE
-Silver Touch Tech. Ltd. (New Delhi) <br/> 
-May 2023 - Present <br/>
-Project Engineer <br/>
-•	Analyzing and interpreting complex data sets to provide insights to exploits e-Office implementation.<br/>
-•	Familiar with Database systems such as Excel and My SQL.<br/>
-•	Developing and maintaining robust e-office systems, including designing and implementing data models and data sanitization to manage Employee Master Data Management. <br/>
-•	Collaborating with cross-functional teams to understand organisation requirements, identify data sources, and develop e-file solutions that support electronic office. <br/>
-•	Power BI create CMPFO Pan India Employee Dashboard. <br/>
+## SKILLS
+**EXPERTIZE AND COMMUNICATION:**  <br/>
+• SEO/SEM <br/>
+• Social Media Marketing <br/>
+• Content Marketing <br/>
+• Email Marketing <br/>
+• Project Management <br/>
+• Analytics and Data Interpretation <br/>
+• Communication <br/>
+• Collaboration  <br/>
 
-IT Wings Info System Pvt. Ltd. (New Delhi) <br/>					
-July 2021 - Oct 2022 <br/>
-Project Engineer <br/>
-•	Collect and Analyzing Data to provide insights to exploits e-Office implementation. <br/>
-•	Familiar with Database systems such as Excel and My SQL. <br/>
-•	Developing and maintaining robust e-office systems, including designing and implementing data models to manage Employee Master Data Management. <br/>
+**MANAGEMENT AND LEADERSHIP:**  <br/>
+• Digital Marketing Strategy <br/>
+• Team Management <br/>
+• Decision Making <br/>
+• Problem Solving <br/>
+• Strategic Thinking <br/>
+• Conflicts Resolution <br/>
+• Delegation <br/>
+• Adaptability <br/>
+• Visionary Leadership <br/>
+• Ethical Leadership <br/>
+
+## PROFESSIONAL EXPERIENCE
+
+**MARKETING INTERN | FUZEMEE, INDIA** <br/>
+**AUG 2023 – OCT 2023** <br/>
+•	Assist in developing and implementing marketing strategies <br/>
+•	Conduct market research and analysis <br/>
+•	Support planning and execution of events and promotion <br/>
+•	Monitor and analyze campaign performance <br/>
+•	Manage social media accounts <br/>
 
 ## Projects
 
-<img align="left" width="250" height="300" src="https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard/blob/master/EMD_Dashboard_Image.jpg"> **[CMPFO Employee Master Data Dashboard:](https://github.com/anonymous-tanmay/Employee_Master_Data_Dashboard.git)**
+<img align="left" width="225" height="250" src="https://github.com/Anonymous-Tanvi/Customer-Segmentation-Analysis/blob/08049bb16e1dbfbe4fbb1b900015bdf13c1fa7c6/Customer%20Segmentation%20Analysis.png"> **[Customer Segmentation Analysis:](https://github.com/Anonymous-Tanvi/Customer-Segmentation-Analysis.git)**
 
-An Employee Master Data Dashboard is a centralized platform or tool that provides a comprehensive and organized overview of key information about an organization's workforce. This dashboard serves as a valuable resource for HR professionals, managers, and stakeholders to efficiently manage and analyze employee data.
-1. Employee Overview: Display of total number of employees, breakdown by departments, sections, or locations.
-2. Personal Information: Individual employee profiles with details like name, employee ID, position, and contact information.
-3. Employment Status: Information on the employment status of each employee (e.g., active, on leave, terminated).
-
-# <br />
-
-<img align="left" width="250" height="250" src="https://github.com/anonymous-tanmay/Covid_Dashboard/blob/master/Covid_Dashboard_Project.jpg"> **[Covid-19 Global Analysis Dashboard:](https://github.com/anonymous-tanmay/Covid_Dashboard.git)**
-
-In the midst of these challenging times, the need for informed decision-making has never been more crucial. This dashboard serves as a beacon, providing a comprehensive overview of the worldwide impact of COVID-19. 🚀
-
-At its core, this project is a testament to the power of data in shaping our understanding of the pandemic's complexities. The dashboard offers a real-time snapshot of infection rates, recovery trends, and critical healthcare statistics, empowering individuals and organizations to make informed choices. It's not just data; it's a tool for strategic decision-making in the face of a global health crisis. 💡
-
-# <br />
-
-<img align="left" width="250" height="250" src="https://github.com/anonymous-tanmay/Covid-19_Vaccination_Dashboard/blob/master/Covid_Vaccination_State-Wise.jpg"> **[COVID-19 Vaccination Analysis Dashboard:](https://github.com/anonymous-tanmay/Covid-19_Vaccination_Dashboard.git)**
-
-The State-Wise COVID-19 Vaccination Dashboard. This innovative platform provides detailed insights into vaccination progress across different states. State-Specific data delivers detailed vaccination statistics for each state, enabling localized tracking and analysis.
-1. Real-Time Updates: The dashboard is regularly updated to reflect the latest vaccination figures and trends.
-2. Demographic Breakdown: Insights into vaccination rates among different age groups, health conditions, and other demographic factors within states.
-3. Hub: Provides state-specific vaccination guidelines, locations, and FAQs to assist the public.
-   
+**Objective**: Identify distinct customer segments based on behavior, demographics, and interactions with your digital platforms to personalize marketing strategies. <br />
+**Data Sources**: Customer database, website analytics, CRM data, email marketing platform.<br />
+Project Components:<br />
+     1. Segment customers based on factors such as purchase history, engagement level, demographics, etc.<br />
+     2. Analyze the characteristics and preferences of each segment.<br />
+     3. Create personalized marketing recommendations and campaigns tailored to each segment.<br />
+     4. Track the effectiveness of personalized campaigns and measure ROI.<br />
 <br />
 
 ## Certificates
 
-- [Complete Data Science Bootcamp by Udemy](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Udemy_The%20Complete%20Data%20Science.jpg)
-- [Competitor Analysis by Semrush](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Semrush_Competitor%20Analysis.pdf)
-- [Data Science with Python by Simplilearn](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Simplilearn_Data%20Sciencewith%20Python.png)
-- [Mastering using MS Excel by Alison](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/3bd5c4850f7fc22872401f9ca42a37be0d2f1acf/Certificates/Alison%20Certification%20of%20Compeltion.jpg)
-- [Python Foundation by LinkedIn](https://github.com/anonymous-tanmay/Portfolio.github.io/blob/b18c7bba7b8a952f4c1e8160d83c179a2e5202c9/Certificates/Python%202020_LinkedIn.png)
+- [Google Ads Search Certifications](https://github.com/Anonymous-Tanvi/Portfolio.github.io/blob/d63c381701be0424a34cfd545d4e9387b5f6f241/Certifications/Google%20Ads%20Search%20Certification%20Tanvi%20Singh%20Skillshop.png)
+- [Google Analytics Certifications](https://github.com/Anonymous-Tanvi/Portfolio.github.io/blob/d63c381701be0424a34cfd545d4e9387b5f6f241/Certifications/Google%20analytics%20certification.png)
+- [Google Ads Video Certifications](https://github.com/Anonymous-Tanvi/Portfolio.github.io/blob/d63c381701be0424a34cfd545d4e9387b5f6f241/Certifications/Google%20ads%20video%20certification.png)
+- [Fundamentals of Digital Marketing– Google](https://github.com/Anonymous-Tanvi/Portfolio.github.io/blob/d63c381701be0424a34cfd545d4e9387b5f6f241/Certifications/Fundamentals%20of%20digital%20marketing.png)
+- [Inbound Marketing Certified- Hubspot](https://github.com/Anonymous-Tanvi/Portfolio.github.io/blob/d63c381701be0424a34cfd545d4e9387b5f6f241/Certifications/Inbound%20marketing%20certified.png)
 
-### EDUCATION
-•	MCA: Master of Computer Application – 7 CGPA 2021 <br/>
-Galgotias College of Engineering & Technology, Greater Noida <br/>
-•	BCA: Bachelor of Computer Application – 6 SGPA					2018 <br/>
-BFIT College of Engineering & Technology, Dehradun <br/>
+
+## EDUCATION
+
+**BACHELOR OF ARTS** 									      JUNE 2024  <br/>
+**Babasaheb Bhimrao Ambedkar Bihar University**			65%  
